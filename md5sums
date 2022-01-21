@@ -2,3 +2,13 @@
 7320c461ea6c1c855c0b718fb2a4b134  t10k-labels-idx1-ubyte.gz
 bdb82020997e1d708af4cf47b453dcf7  train-images-idx3-ubyte.gz
 e144d726b3acfaa3e44228e80efcd344  train-labels-idx1-ubyte.gz
+f7d0d0391f68bdf0fe4cf160ceb85753  k49_classmap.csv
+899202f6e8dc29a321ac210a03d0f2f1  kmnist_classmap.csv
+d352e201d846ce6b94f42c990966f374  k49-test-imgs.npz
+4da6f7a62e67a832d5eb1bd85c5ee448  k49-test-labels.npz
+7ac088b20481cf51dcd01ceaab89d821  k49-train-imgs.npz
+44a8e1b893f81e63ff38d73cad420f7a  k49-train-labels.npz
+dace6de62ca8b90843cc45366337d02e  kmnist-test-imgs.npz
+3ae489a79983d0fe386152684e3b5412  kmnist-test-labels.npz
+a183fbc01ed9a345513b145673d3d0bb  kmnist-train-imgs.npz
+b0e1d240e8afec72b50437fc3bc5908a  kmnist-train-labels.npz
